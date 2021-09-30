@@ -1,0 +1,16 @@
+C:\Users\hendr\source\repos\TestInHelt\TestInHelt\bin\Debug\TestInHelt.dacpac
+C:\Users\hendr\source\repos\TestInHelt\TestInHelt\bin\Debug\TestInHelt.dll
+C:\Users\hendr\source\repos\TestInHelt\TestInHelt\bin\Debug\TestInHelt.pdb
+C:\Users\hendr\source\repos\TestInHelt\TestInHelt\obj\Debug\TestInHelt.sqlproj.AssemblyReference.cache
+C:\Users\hendr\source\repos\TestInHelt\TestInHelt\obj\Debug\TestInHelt.dll
+C:\Users\hendr\source\repos\TestInHelt\TestInHelt\obj\Debug\TestInHelt.pdb
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\bin\Debug\TestInHelt.dacpac
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\bin\Debug\TestInHelt.dll
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\bin\Debug\TestInHelt.pdb
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\obj\Debug\TestInHelt.sqlproj.AssemblyReference.cache
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\obj\Debug\TestInHelt.dll
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\obj\Debug\TestInHelt.pdb
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\obj\Debug\Model.xml
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\obj\Debug\refactor.xml
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\obj\Debug\postdeploy.sql
+D:\TestInHelt\MITT_Hendrik\TestInHeltDatabase\TestInHelt\obj\Debug\predeploy.sql
