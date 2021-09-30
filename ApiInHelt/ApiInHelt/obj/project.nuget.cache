@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o+K95EDICgCETNnSSD7OzYXIU1WwV8XR2LC9tsRva6NoWG8v6WuHBQT/I8uzhs+a9d2Vhk9/7L0wSBaUiNie+w==",
+  "dgSpecHash": "518dMaLbTFq3YPGnMfyemllxcE62BIpzip+QFv/YjxJbJsJHFuEw5OgxfLdPssuoKsYK0wKFTO0Pwe86m15oTg==",
   "success": true,
-  "projectFilePath": "D:\\TestInHelt\\MITT_Hendrik\\ApiInHelt\\ApiInHelt\\ApiInHelt.csproj",
+  "projectFilePath": "D:\\MITT_Hendrik\\ApiInHelt\\ApiInHelt\\ApiInHelt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hendr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hendr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

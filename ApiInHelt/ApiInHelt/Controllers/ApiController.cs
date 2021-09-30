@@ -30,45 +30,5 @@ namespace ApiInHelt.Controllers
             return new JsonResult(data);
         }
 
-
-
-
-        //[HttpGet]
-        //[Authorize]
-        //public JsonResult DataList()
-        //{
-        //    db_latihanContext db = new db_latihanContext();
-        //    var data = db.TblPegawais.ToList();
-        //    return new JsonResult(data);
-        //}
-
-        //[HttpPost]
-        //public JsonResult DataAdd(TblPegawai tblpegawai)
-        //{
-        //    db_latihanContext db = new db_latihanContext();
-
-        //    db.TblPegawais.Add(tblpegawai);
-        //    db.SaveChanges();
-        //    return new JsonResult("Add sukses");
-        //}
-
-        //[HttpPatch]
-        //public JsonResult DataUpdate(TblPegawai tblpegawai)
-        //{
-        //    db_latihanContext db = new db_latihanContext();
-        //    db.Entry(tblpegawai).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-        //    db.SaveChanges();
-
-        //    return new JsonResult("Berhasil update");
-        //}
-
-        //[HttpDelete]
-        //public JsonResult DataDelete(int IdPegawai)
-        //{
-        //    db_latihanContext db = new db_latihanContext();
-        //    db.Remove(db.TblPegawais.Where(e => e.Idpegawai == IdPegawai).FirstOrDefault());
-        //    db.SaveChanges();
-        //    return new JsonResult("Berhasil delete");
-        //}
     }
 }

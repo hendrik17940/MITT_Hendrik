@@ -5949,11 +5949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestInHelt\\MITT_Hendrik\\ApiInHelt\\ApiInHelt\\ApiInHelt.csproj",
+      "projectUniqueName": "D:\\MITT_Hendrik\\ApiInHelt\\ApiInHelt\\ApiInHelt.csproj",
       "projectName": "ApiInHelt",
-      "projectPath": "D:\\TestInHelt\\MITT_Hendrik\\ApiInHelt\\ApiInHelt\\ApiInHelt.csproj",
+      "projectPath": "D:\\MITT_Hendrik\\ApiInHelt\\ApiInHelt\\ApiInHelt.csproj",
       "packagesPath": "C:\\Users\\hendr\\.nuget\\packages\\",
-      "outputPath": "D:\\TestInHelt\\MITT_Hendrik\\ApiInHelt\\ApiInHelt\\obj\\",
+      "outputPath": "D:\\MITT_Hendrik\\ApiInHelt\\ApiInHelt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
